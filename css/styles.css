@@ -23,3 +23,6 @@ box-shadow: #d1483e 0 5px 0;
 margin-top: 35px;
 user-select: none;
 }
+p{
+  text-align: center;
+}
