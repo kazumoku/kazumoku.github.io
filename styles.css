@@ -1,0 +1,28 @@
+body{
+  background-color: silver;
+}
+#btn{
+  width: 200px;
+  height: 200px;
+  background:#f1393f;
+  border-radius: 50%;  
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  line-height: 200px;
+  box-shadow: #d1483e 0 10px 0;
+  margin: 30px auto;
+  cursor: pointer;
+}
+#btn:hover{
+  opacity: 0.7;
+}
+#btn:active{
+box-shadow: #d1483e 0 5px 0;
+margin-top: 35px;
+user-select: none;
+}
+p{
+  text-align: center;
+}
